@@ -35,4 +35,6 @@
 
 [Quick Array](https://github.com/alirezasalehizadeh/QuickArray): Simple PHP tool to quickly work with SplFixedArray.
 
+[GPTFa](https://github.com/alirezasalehizadeh/gptfa): ChatGPT bot for Telegram.
+
 ...
