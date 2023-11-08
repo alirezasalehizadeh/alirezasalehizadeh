@@ -34,7 +34,7 @@
 
 [GPTFa](https://github.com/alirezasalehizadeh/gptfa): ChatGPT bot for Telegram.
 
-[More](https://packagist.org/packages/alirezasalehizadeh)
+[More](https://packagist.org/users/alirezasalehizadeh/packages)
 
 
 ### Contributions:
